@@ -1,0 +1,75 @@
+@CHARSET "ISO-8859-1";
+
+body.image{
+	background-image: url("http://www.clipartkid.com/images/267/bridal-shower-invitations-a-a-free-images-at-clker-com-vector-clip-oXum8z-clipart.png");
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: 700px 500px;
+}
+
+h2{
+	color: #9900cc;
+	text-align: center;
+	font-style: italic;
+}
+
+td.font{
+	font-size: 22px;
+	font-style: italic;
+}
+
+td.fontColor{
+	font-size: 22px;
+	font-style: italic;
+	color: #9900cc;
+	font-weight: bold;
+}
+
+.button {
+    background-color: #9900cc;
+    border: 1px solid #4d004d;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    color: #FFFFFF;
+    border-radius: 8px
+}
+
+
+table.alignment {
+    margin-left:auto; 
+    margin-right:auto;
+    padding: 5px;
+}
+
+tr.border {
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+	border: 1px solid black;
+    padding: 5px;
+}
+
+td.border {
+	border-top: thin solid;
+	border-bottom: thin solid;
+	border-left: thin solid;
+	border-right: thin solid;
+  	border-color: black;
+  	padding: 5px;
+  	font-size: 24px;
+}
+
+td.borderBackground {
+	border-top: thin solid;
+	border-bottom: thin solid;
+	border-left: thin solid;
+	border-right: thin solid;
+  	border-color: black;
+  	padding: 5px;
+  	font-size: 24px;
+  	background-color: #0000ff;
+  	color: #ffffff;
+}
